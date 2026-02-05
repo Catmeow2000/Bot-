@@ -23,4 +23,4 @@ async def on_ready():
     await bot.tree.sync()
     print("✅ Slash commands đã sync")
 
-bot.run("")
+bot.run("MTQ2NzgzMTU2MTU0OTM4NTg3MA.G04X9m.BtJ5b43kEWd9xBIx5KScy1xGZn9rABFgZLIbLw")
